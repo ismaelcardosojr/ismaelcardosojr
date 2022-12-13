@@ -7,7 +7,7 @@
 
 - ⚡ I've been into Programming since **August, 2022**
 
-- 🏆 Next goal: to learn Phyton
+- 🏆 Next goal: **to learn Phyton**
 
 - 📫 How to reach me: **ismaelcardosojr@outlook.com**
 
