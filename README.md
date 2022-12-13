@@ -7,7 +7,7 @@
 
 - ⚡ I've been into Programming since **August, 2022**
 
-- 📫 How to reach me: **junicardosois@gmail.com**
+- 📫 How to reach me: **ismaelcardosojr@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
