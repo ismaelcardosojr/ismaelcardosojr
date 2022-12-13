@@ -1,7 +1,7 @@
 <h1 align="left">Hey there! I'm Ismael 👋</h1>
 <h3 align="left">A passionate backend developer</h3>
 
-- 👨‍💻 I’m currently a student on **1000DEVs Program by mesttra**
+- 👨‍💻 I’m currently a student at **1000DEVs Program by mesttra**
 
 - 🌱 I’m currently learning **Cloud, APIs and Microservices**
 
