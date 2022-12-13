@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently a student at **1000DEVs Program by mesttra**
 
-- 🌱 I’m currently learning **Cloud, APIs and Microservices**
+- 🌱 I’m currently learning **Cloud, API's and Microservices**
 
 - ⚡ I've been into Programming since **August, 2022**
 
