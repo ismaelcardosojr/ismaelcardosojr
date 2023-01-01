@@ -1,7 +1,7 @@
 <h1 align="left">Hey there! I'm Ismael 👋</h1>
 <h3 align="left">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Cloud, API's and Microservices**
+- 🌱 I’m currently learning **Cloud and Microservices**
 
 - ⚡ I've been into Programming since **August, 2022**
 
