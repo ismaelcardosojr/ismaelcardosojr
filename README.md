@@ -1,11 +1,11 @@
 <h1 align="left">Hey there! I'm Ismael 👋</h1>
 <h3 align="left">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Cloud and Microservices**
+- 🌱 I’m currently learning **HTML and CSS**
 
 - ⚡ I've been into Programming since **August, 2022**
 
-- 🏆 Next goal: **to learn Phyton**
+- 🏆 Next goal: **to learn HTML, CSS and JavaScript**
 
 - 📫 How to reach me: **ismaelcardosojr@outlook.com**
 
