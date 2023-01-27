@@ -9,7 +9,7 @@
 
 - ⚡ I've been into Programming since **August, 2022**
 
-- 🏆 Next goal: **to learn HTML, CSS and JavaScript**
+- 🏆 Next goal: **to learn JavaScript**
 
 - 📫 How to reach me: **ismaelcardosojr@outlook.com**
 
