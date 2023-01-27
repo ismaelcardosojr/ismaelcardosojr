@@ -6,13 +6,13 @@
 </h3>
 
 <p align="center">
-  - 🌱 I’m currently studying <b>HTML and CSS</b>
+  - I’m currently studying <b>HTML and CSS</b> 🌱
   <br/>
-  - ⚡ I've been into Programming since <b>August, 2022</b>
+  - I've been into Programming since <b>August, 2022</b> ⚡
   <br/>
-  - 🏆 Next goal: <b>to learn JavaScript</b>
+  - Next goal: <b>to learn JavaScript</b> 🏆
   <br/>
-  - 📫 How to reach me: <b>ismaelcardosojr@outlook.com</b>
+  - How to reach me: <b>ismaelcardosojr@outlook.com</b> 📫
 </p>
 
 <h3 align="center">
