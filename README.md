@@ -5,7 +5,7 @@
   A passionate backend developer
 </h3>
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently studying **HTML and CSS**
 
 - ⚡ I've been into Programming since **August, 2022**
 
