@@ -32,4 +32,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelcardosojr&show_icons=true&locale=en" alt="ismaelcardosojr" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelcardosojr&count=5" alt="ismaelcardosojr" />
+</p>
+<p align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelcardosojr&show_icons=true&locale=en" alt="ismaelcardosojr" />
+</p>
