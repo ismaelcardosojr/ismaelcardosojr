@@ -2,15 +2,13 @@
   Hey there! I'm Ismael 👋
 </h1>
 <h3 align="center">
-  A passionate full stack developer
+  A passionate backend developer
 </h3>
 
 <p align="center">
-  • I’m currently studying <b>HTML, CSS and JavaScript</b> 🌱
+  • I’m currently studying <b>Java</b> 🌱
   <br>
   • I've been into Programming since <b>August, 2022</b> ⚡
-  <br>
-  • Next goal: <b>to learn Python</b> 🏆
   <br>
   • How to reach me: <b>ismaelcardosojr@outlook.com</b> 📫
 </p>
